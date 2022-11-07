@@ -12,7 +12,7 @@
 
 - 💬 Ping me about **C,C++,labVIEW and RTOS**
 
-- 👨‍💻 I’m currently learning **Programming**
+- 👨‍💻 I’m currently learning **Programming (RTOS)**
 
 - 🎯 Life Hack: **"Learn from everyone😉"**
 
