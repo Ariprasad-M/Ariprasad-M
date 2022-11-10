@@ -32,9 +32,12 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a></p>
 
+<h3 align="left">Certifications:</h3>
+<p align="left">
+ ➤ 𝐍𝐈 𝐂𝐋𝐀𝐃 ( 𝙲𝙴𝚁𝚃𝙸𝙵𝙸𝙴𝙳 𝚕𝚊𝚋𝚅𝙸𝙴𝚆 𝙰𝚂𝚂𝙾𝙲𝙸𝙰𝚃𝙴 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 ) 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ariprasad-m&show_icons=true&locale=en&layout=compact" alt="ariprasad-m" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ariprasad-m&show_icons=true&locale=en&layout=compact" alt="ariprasad-m" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ariprasad-m&show_icons=true&locale=en" alt="ariprasad-m" /></p>
 
