@@ -10,9 +10,9 @@
 
 - 🔭 I’m currently studying **Electronics and Communication**
 
-- 💬 Ping me about **C,C++,labVIEW and RTOS**
+- 💬 Ping me about **C,C++ and labVIEW**
 
-- 👨‍💻 I’m currently learning **Programming (RTOS)**
+- 👨‍💻 I’m currently learning **Programming languages**
 
 - 🎯 Life Hack: **"Learn from everyone😉"**
 
