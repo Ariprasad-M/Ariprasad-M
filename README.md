@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **ariprasadmsd7@gmail.com**
 
-- ⚡ Fun fact **Hyperactive 😜**
+- ⚡ **Hyperactive 😜**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
