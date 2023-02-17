@@ -16,7 +16,7 @@
 
 - 🎯 Life Hack: **"Learn from everyone😉"**
 
-- 📫 How to reach me **ariprasadmsd7@gmail.com**
+- 📫 Reach me **ariprasadmsd7@gmail.com**
 
 - ⚡ **Hyperactive 😜**
 
