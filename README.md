@@ -12,9 +12,9 @@
 
 - 💬 Ping me about **C,C++ and labVIEW**
 
-- 👨‍💻 I’m currently learning **Programming languages**
+- 👨‍💻 Skills : **C,C++,labVIEW,Qt C++,Qt Qml and freeRTOS**
 
-- 🎯 Life Hack: **"Learn from everyone😉"**
+
 
 - 📫 Reach me **ariprasadmsd7@gmail.com**
 
