@@ -10,9 +10,8 @@
 
 - 🔭 I’m currently studying **Electronics and Communication**
 
-- 💬 Ping me about **C,C++ and labVIEW**
 
-- 👨‍💻 Skills : **C,C++,labVIEW,Qt C++,Qt Qml and freeRTOS**
+- 👨‍💻 Skills : **C,C++,labVIEW,Qt C++,Qt Qml,freeRTOS**
 
 
 
