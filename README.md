@@ -11,7 +11,7 @@
 - 🔭 I’m currently studying **Electronics and Communication**
 
 
-- 👨‍💻 Skills : **C,C++,labVIEW,Qt C++,Qt Qml,freeRTOS**
+- 👨‍💻 Skills : **C,C++,LabVIEW,Qt C++,Qt Qml,FreeRTOS**
 
 
 
