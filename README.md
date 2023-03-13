@@ -21,7 +21,7 @@
 
 <h3 align="left">skills:</h3>
 <p align="left">
-<p> ➤ C
+<p> ➤ C<br>
  ➤ C++<br>
  ➤ FreeRTOS<br>
  ➤ Qt C++<br>
