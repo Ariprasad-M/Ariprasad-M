@@ -11,7 +11,7 @@
 - 🔭 I’m currently studying **Electronics and Communication**
 
 
-- 👨‍💻 Skills : **C,C++,LabVIEW,Qt C++,Qt Qml,FreeRTOS**
+
 
 
 
@@ -31,6 +31,14 @@
  ➤ ARDUINO IDE<br>
  ➤ LoRaWAN -> IOT</p>
  
+ 
+ <h3 align="left">AREAS OF INTEREST:</h3>
+<p align="left">
+<p> ➤ C<br>
+ ➤ C++<br>
+ ➤ Basic Electronics<br>
+ ➤ Embedded Technology<br>
+ ➤ RTOS</p>
  
  
 
