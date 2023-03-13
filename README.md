@@ -21,15 +21,15 @@
 
 <h3 align="left">skills:</h3>
 <p align="left">
- -➤ C
-- ➤ C++
-- ➤ FreeRTOS
-- ➤ Qt C++
- -➤ Qt Qml
- -➤ STM CUBE IDE 
- -➤ KEIL IDE
-- ➤ ARDUINO IDE
-- ➤ LoRaWAN -> IOT
+<p> ➤ C
+ ➤ C++<br>
+ ➤ FreeRTOS<br>
+ ➤ Qt C++<br>
+ ➤ Qt Qml<br>
+ ➤ STM CUBE IDE <br>
+ ➤ KEIL IDE<br>
+ ➤ ARDUINO IDE<br>
+ ➤ LoRaWAN -> IOT</p>
  
  
  
