@@ -43,7 +43,7 @@
  
   <h3 align="left">Certifications:</h3>
 <p align="left">
- <p> ➤ NI-CLAD ( 𝙲𝙴𝚁𝚃𝙸𝙵𝙸𝙴𝙳 𝚕𝚊𝚋𝚅𝙸𝙴𝚆 𝙰𝚂𝚂𝙾𝙲𝙸𝙰𝚃𝙴 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 ) | NATIONAL INSTRUMENTS<br>
+ <p> ➤ NI-CLAD ( 𝙲𝙴𝚁𝚃𝙸𝙵𝙸𝙴𝙳 𝚕𝚊𝚋𝚅𝙸𝙴𝚆 𝙰𝚂𝚂𝙾𝙲𝙸𝙰𝚃𝙴 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 ) | National Instruments<br>
  ➤ Qt 5 C++ The Fundamentals | Udemy <br>
  ➤ Basic Electronics | Europe Academy<br>
  ➤ Problem Solving (intermediate) | HackerRank</p>
