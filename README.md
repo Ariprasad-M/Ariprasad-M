@@ -25,11 +25,7 @@
  ➤ C++<br>
  ➤ FreeRTOS<br>
  ➤ Qt C++<br>
- ➤ Qt Qml<br>
- ➤ STM CUBE IDE <br>
- ➤ KEIL IDE<br>
- ➤ ARDUINO IDE<br>
- ➤ LoRaWAN -> IOT</p>
+ ➤ Qt Qml</p>
  
  <h3 align="left">Tools:</h3>
 <p align="left">
