@@ -31,6 +31,15 @@
  ➤ ARDUINO IDE<br>
  ➤ LoRaWAN -> IOT</p>
  
+ <h3 align="left">Tools:</h3>
+<p align="left">
+<p> 
+ ➤ Qt creator<br>
+ ➤ STM CUBE IDE <br>
+ ➤ KEIL IDE<br>
+ ➤ ARDUINO IDE<br>
+ ➤ LoRaWAN -> IOT</p>
+ 
  
  <h3 align="left">Areas Of Interest:</h3>
 <p align="left">
