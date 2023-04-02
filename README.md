@@ -23,7 +23,6 @@
 <p align="left">
 <p> ➤ C<br>
  ➤ C++<br>
- ➤ FreeRTOS<br>
  ➤ Qt C++<br>
  ➤ Qt Qml</p>
  
@@ -31,8 +30,7 @@
 <p align="left">
 <p> 
  ➤ Qt creator<br>
- ➤ STM CUBE IDE <br>
- ➤ KEIL IDE<br>
+ ➤ NI Multisim <br>
  ➤ ARDUINO IDE<br>
  ➤ LoRaWAN -> IOT</p>
  
@@ -43,7 +41,6 @@
  ➤ C++<br>
  ➤ Basic Electronics<br>
  ➤ Embedded Technology<br>
- ➤ RTOS</p>
  
  
   <h3 align="left">Certifications:</h3>
