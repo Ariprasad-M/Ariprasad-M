@@ -17,7 +17,7 @@
 
 - 📫 Reach me **ariprasadmsd7@gmail.com**
 
-- ⚡ **Hyperactive**
+- ⚡ **Electronics Engineer**
 
 <h3 align="left">skills:</h3>
 <p align="left">
