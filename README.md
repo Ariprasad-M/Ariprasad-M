@@ -70,8 +70,4 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ariprasad-m&show_icons=true&locale=en&layout=compact" alt="ariprasad-m" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ariprasad-m&show_icons=true&locale=en" alt="ariprasad-m" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ariprasad-m&" alt="ariprasad-m" /></p>
