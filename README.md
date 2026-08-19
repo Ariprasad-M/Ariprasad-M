@@ -105,12 +105,10 @@ print(me.motto())
 
 <div align="center">
 
-| | Area of Interest |
-|---|---|
-| ⏱️ | Real-Time Operating Systems |
-| 🐧 | Linux Architecture |
-| 🚗 | Automotive Software Architecture |
-| ⚙️ | Performance Optimization & Scheduling Algorithms |
+![RTOS](https://img.shields.io/badge/Real--Time%20Operating%20Systems-1B1F3B?style=flat-square)
+![Linux Architecture](https://img.shields.io/badge/Linux%20Architecture-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Automotive Software Architecture](https://img.shields.io/badge/Automotive%20Software%20Architecture-CC0000?style=flat-square)
+![Performance Optimization & Scheduling](https://img.shields.io/badge/Performance%20Optimization%20%26%20Scheduling%20Algorithms-2E8B57?style=flat-square)
 
 </div>
 
