@@ -1,73 +1,195 @@
-<h1 align="center">Hey there 👋 , I'm ARIPRASAD M</h1>
-<h3 align="center">👨‍🎓 ENGINEER 💥</h3>
+<div align="center">
 
-<img align="right" alt="coding" width="475" src="https://camo.githubusercontent.com/01c83210f7feb975ea3b9a852808beb6689425add471f76f942c15875626af5d/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ariprasad%20M&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Embedded%20Systems%20Engineer%20%7C%20RTOS%20%26%20Real-Time%20Scheduling%20Researcher&descAlignY=62&descSize=16" width="100%"/>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Embedded+Systems+Engineer+%F0%9F%94%A7;RTOS+%26+Real-Time+Scheduling+Researcher;M.E.+%40+PSG+College+of+Technology+(CGPA+9.35);Turning+Interrupts+into+Insights)](https://git.io/typing-svg)
 
+📍 Coimbatore, India &nbsp;|&nbsp; 📧 [ariprasadmsd7@gmail.com](mailto:ariprasadmsd7@gmail.com) &nbsp;|&nbsp; 🔗 [linkedin.com/in/ariprasad-m](https://linkedin.com/in/ariprasad-m/) &nbsp;|&nbsp; 💻 [github.com/Ariprasad-M](https://github.com/Ariprasad-M)
 
+![Profile Views](https://komarev.com/ghpvc/?username=Ariprasad-M&color=70a5fd&style=flat-square&label=Profile+Views)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ariprasad-m&label=Profile%20views&color=0e75b6&style=flat" alt="ariprasad-m" /> </p>
+</div>
 
-- 🔭 I’m currently studying **Electronics and Communication**
+---
 
+### 🧠 About Me
 
+<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 
+```python
+class Ariprasad:
+    def __init__(self):
+        self.name        = "Ariprasad M"
+        self.location    = "Coimbatore, India"
+        self.role        = "Embedded Systems Engineer | RTOS Researcher"
+        self.degree      = "M.E. Embedded & Real-Time Systems @ PSG College of Technology"
+        self.cgpa        = 9.35
 
+        self.stack = {
+            "languages" : ["Python", "C", "C++", "Embedded C", "MATLAB"],
+            "boards"    : ["Raspberry Pi 5", "Jetson Orin Nano", "ESP32",
+                           "MSP430", "BeagleBone Black", "Teensy", "NI myRIO"],
+            "protocols" : ["UART", "SPI", "I2C", "MQTT", "Wi-Fi", "Bluetooth"],
+        }
 
+        self.currently_learning = [
+            "Interrupt-Aware Scheduling on GIC-400",
+            "React Native + Expo (TypeScript)",
+            "CUDA-Accelerated Heterogeneous Computing",
+        ]
 
-- 📫 Reach me **ariprasadmsd7@gmail.com**
+        self.fun_fact = (
+            "Once traced a RISC-V 'illegal instruction' crash all the "
+            "way down to a mismatched flash partition scheme."
+        )
 
-- ⚡ **Electronics Engineer**
-
-<h3 align="left">skills:</h3>
-<p align="left">
-<p> ➤ C<br>
- ➤ C++<br>
- ➤ Qt C++<br>
- ➤ Qt Qml</p>
- 
- <h3 align="left">Tools:</h3>
-<p align="left">
-<p> 
- ➤ Qt creator<br>
- ➤ NI Multisim <br>
- ➤ ARDUINO IDE<br>
- ➤ LoRaWAN -> IOT</p>
- 
- 
- <h3 align="left">Areas Of Interest:</h3>
-<p align="left">
-<p> ➤ C<br>
- ➤ C++<br>
- ➤ Basic Electronics<br>
- ➤ Embedded Technology<br>
- 
- 
-  <h3 align="left">Certifications:</h3>
-<p align="left">
- <p> ➤ NI-CLAD ( 𝙲𝙴𝚁𝚃𝙸𝙵𝙸𝙴𝙳 𝚕𝚊𝚋𝚅𝙸𝙴𝚆 𝙰𝚂𝚂𝙾𝙲𝙸𝙰𝚃𝙴 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 ) | National Instruments<br>
- ➤ Qt 5 C++ The Fundamentals | Udemy <br>
- ➤ Basic Electronics | Europe Academy<br>
- ➤ Problem Solving (intermediate) | HackerRank</p>
- 
-
- 
- 
- 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ariprasad-m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ariprasad-m" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ari prasad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ari prasad" height="30" width="40" /></a>
-<a href="https://instagram.com/ariprasad_msd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ariprasad_msd" height="30" width="40" /></a>
-</p>
+    def motto(self):
+        return "Build it. Break it. Understand it."
 
 
+me = Ariprasad()
+print(me.motto())
+# >> Build it. Break it. Understand it.
+```
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a></p>
+---
 
+### 🛠️ Tech Stack
 
+**Languages**
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Embedded C](https://img.shields.io/badge/Embedded%20C-8A2BE2?style=flat-square)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
 
+**Embedded Boards & Platforms**
 
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi%205-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+![Jetson](https://img.shields.io/badge/Jetson%20Orin%20Nano-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![MSP430](https://img.shields.io/badge/MSP430-CC0000?style=flat-square)
+![BeagleBone](https://img.shields.io/badge/BeagleBone%20Black-000000?style=flat-square)
+![Teensy](https://img.shields.io/badge/Teensy-16A085?style=flat-square)
+![NI myRIO](https://img.shields.io/badge/NI%20myRIO-FFDB00?style=flat-square)
+
+**Protocols & Communication**
+
+![UART](https://img.shields.io/badge/UART-333333?style=flat-square)
+![SPI](https://img.shields.io/badge/SPI-333333?style=flat-square)
+![I2C](https://img.shields.io/badge/I2C-333333?style=flat-square)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
+![WiFi](https://img.shields.io/badge/Wi--Fi-0078D4?style=flat-square&logo=wifi&logoColor=white)
+![Bluetooth](https://img.shields.io/badge/Bluetooth-0082FC?style=flat-square&logo=bluetooth&logoColor=white)
+
+**Dev Tools & IDEs**
+
+![Keil](https://img.shields.io/badge/Keil%20µVision-00A3E0?style=flat-square)
+![CCS](https://img.shields.io/badge/Code%20Composer%20Studio-C1121F?style=flat-square)
+![LabVIEW](https://img.shields.io/badge/NI%20LabVIEW-FFDB00?style=flat-square)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+**Operating Systems**
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<table align="center">
+<tr>
+<td><img src="https://github-readme-stats.vercel.app/api?username=Ariprasad-M&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" /></td>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ariprasad-M&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" /></td>
+</tr>
+</table>
+
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=Ariprasad-M&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ariprasad-M&theme=tokyonight&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="95%"/>
+</div>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Ariprasad-M&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" />
+</div>
+
+---
+
+### 💼 Work Experience
+
+<details open>
+<summary><b>IoT Developer Intern — Zed Digital</b> &nbsp;|&nbsp; October 2023 – May 2024</summary>
+<br>
+
+> `Embedded C` `UART` `SPI` `I2C` `GPIO` `Wi-Fi` `Bluetooth` `MQTT`
+
+- 🔧 Developed firmware for multiple microcontrollers, integrating sensors and ensuring reliable real-time data acquisition.
+- 🔌 Integrated sensors and peripherals using **UART, SPI, I²C, and GPIO** interfaces and implemented communication protocols over **Wi-Fi, Bluetooth, and MQTT**.
+- ⚙️ Gained hands-on experience in firmware design, testing, and performance optimization for end-to-end IoT solutions.
+
+</details>
+
+---
+
+### 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Stack | Highlights |
+|---|---|---|
+| **Optimization Techniques for Efficient Load Balancing in Multi-core Task Scheduling** <br><sub>Dec 2025 – Jan 2026</sub> | Raspberry Pi 5 · DMS/RMS/EDF/LLF · Ant Colony Optimization · Improved Cuckoo Search · DVFS | 📈 **5–7%** ↑ CPU utilization &nbsp;•&nbsp; **12–15%** ↓ CPU load &nbsp;•&nbsp; **8–10%** ↓ deadline miss ratio vs. conventional multi-core scheduling |
+| **Real-Time OS Noise Characterization on Multi-core Linux Platforms** <br><sub>Feb 2025 – Apr 2025</sub> | Raspberry Pi 5 · Python · I2C + MQTT Sensors · USB Camera · Ubuntu 24.04 · Raspberry Pi OS | 🔍 Profiled scheduling latency, CPU load, IRQ activity & per-core load; identified workload-induced OS noise from stacked I/O operations |
+| **Real-Time Task Scheduling Simulator** <br><sub>Jun 2025 – Jul 2025</sub> | Python · Streamlit · Gantt Chart Visualization | 🖥️ Interactive UI simulating classical & advanced scheduling algorithms; evaluated waiting time, turnaround time, throughput, CPU utilization & context-switch overhead |
+
+</div>
+
+---
+
+### 🏆 Achievements
+
+<div align="center">
+
+| | Achievement | Details |
+|---|---|---|
+| 🥇 | **Gold Medalist — M.E. Program** | PSG College of Technology · CGPA **9.35** |
+| 🏅 | **Best Project Award** | M.E. Embedded and Real-Time Systems, PSG College of Technology |
+| 📜 | **Patent Filed** | *Differential CO2-Based Adaptive Ventilation and Environmental Control System* (Jan – May 2026) |
+| 🎓 | **CLAD Certified** | Certified LabVIEW Associate Developer — **85%** score (May 2022) |
+| ⚡ | **Research Impact** | Multi-core scheduling framework: **5–7%** ↑ CPU utilization, **12–15%** ↓ CPU load, **8–10%** ↓ deadline miss ratio |
+
+</div>
+
+---
+
+### 🎓 Education
+
+<div align="center">
+
+| Degree | Institution | Year | Score |
+|---|---|---|---|
+| M.E., Embedded and Real Time Systems | PSG College of Technology, Coimbatore | 2026 | CGPA: 9.35 |
+| B.E., Electronics and Communication Engineering | Bannari Amman Institute of Technology, Erode | 2024 | CGPA: 8.31 |
+
+</div>
+
+### 📡 Currently Learning
+
+```
+🧵 RTOS Internals          → Interrupt-Aware Scheduling, GIC-400 Contention, ftrace
+📱 Mobile Development       → React Native, Expo, TypeScript
+🧠 Heterogeneous Computing  → CUDA, CPU-GPU Load Balancing
+📝 Research Publishing      → IEEE Conference Paper Writing (RTOS Domain)
+```
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
