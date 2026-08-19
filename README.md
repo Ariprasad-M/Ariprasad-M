@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ariprasad%20M&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Embedded%20Systems%20Engineer%20%7C%20RTOS%20%26%20Real-Time%20Scheduling%20Researcher&descAlignY=62&descSize=16&stroke=0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ariprasad%20M&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Embedded%20Systems%20Engineer%20%7C%20RTOS%20and%20Real-Time%20Scheduling%20Researcher&descAlignY=62&descSize=16&stroke=0" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Embedded+Systems+Engineer+%F0%9F%94%A7;RTOS+%26+Real-Time+Scheduling+Researcher;M.E.+%40+PSG+College+of+Technology+(CGPA+9.35);Turning+Interrupts+into+Insights)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Embedded+Systems+Engineer+%F0%9F%94%A7;RTOS+and+Real-Time+Scheduling+Researcher;M.E.+%40+PSG+College+of+Technology+(CGPA+9.35);Turning+Interrupts+into+Insights)](https://git.io/typing-svg)
 
 📍 Coimbatore, India &nbsp;|&nbsp; 📧 [ariprasadmsd7@gmail.com](mailto:ariprasadmsd7@gmail.com) &nbsp;|&nbsp; 🔗 [linkedin.com/in/ariprasad-m](https://linkedin.com/in/ariprasad-m/) &nbsp;|&nbsp; 💻 [github.com/Ariprasad-M](https://github.com/Ariprasad-M)
 
@@ -13,6 +13,8 @@
 ---
 
 ### 🧠 About Me
+
+<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 
 ```python
 class Ariprasad:
